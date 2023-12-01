@@ -4,4 +4,11 @@
 En un lugar de la Mancha... EXPERIMENTACION!"!!!!!!! ?=?=?==?=?=?=?PÑ¨D
 
 He actualizado la novela desde mi ordenador viewnext 102
+<<<<<<< HEAD
+
+editando para que pete
+=======
 >>>>>>> 355749e5946287446d84eeb7907df23c5943a10f
+>>>>>>> 2cc01f3813e92b66e581a3baa4c28cfbd68ce8a9
+
+Intentado que pete
